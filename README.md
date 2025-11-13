@@ -18,6 +18,21 @@ Computer Science: Studying at 浙江师范大学 (ZJNU)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 💬 How to Reach Me (I don’t bite 😄)
 
 <p align="left">
@@ -30,10 +45,11 @@ Computer Science: Studying at 浙江师范大学 (ZJNU)
   </a>
 
   <a href="https://www.instagram.com/zayedalyafei734/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Instagram"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram"/>
   </a>
 
   <a href="https://www.facebook.com/studyinchina" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook"/>
   </a>
 </p>
+
